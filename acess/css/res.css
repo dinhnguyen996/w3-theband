@@ -1,0 +1,12 @@
+@media(max-width : 1023px) {
+    #nav {
+        display: none;
+
+        
+    }
+    .modal-container {
+        max-width: 650px;
+    }
+    
+    
+}
